@@ -8,6 +8,7 @@ pip install
 3. Pillow
 
 #Dummy Test Inputs:
+
 Test Input 1:
 precipitation: 0.0
 temp_max: 25.0
